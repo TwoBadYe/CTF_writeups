@@ -1,0 +1,1 @@
+simple RSA crypto challenge grab your valuesuse factorDB to find the p and q then solve the encrypted message full script is attached in the repo
