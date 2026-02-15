@@ -1,0 +1,1 @@
+This is where i am going to post my writeup for CTFs and machines i realise until i make a blog or somthing like that
