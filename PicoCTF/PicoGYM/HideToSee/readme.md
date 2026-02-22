@@ -6,4 +6,3 @@ we will use steghide to pull out the flag
 
 and decode it using 
 
-![decodedatb](/PicoCTF/PicoGYM/HideToSee/decoded%20atbash.JPG/)
